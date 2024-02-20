@@ -25,7 +25,7 @@ description: |
 # Can be CLIENT, CLIENT_EVENT, SERVER, SERVER_EVENT
 type: CLIENT
 
-author: Daksh Gajjar - @dakshgajjar
+author: NEEL SUTHAR  - @neelsuthar
 
 precondition: SELECT OS From info() where OS = 'windows'
 
